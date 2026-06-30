@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5d0038/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 亢倉子注
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:44:08.870307'
+  source:
+    repository: kanripo
+    path: KR5d0038/KR5d0038_000.txt
+hash: sha256:8dae5fa790500ac129e589cf216903e25f870aac40273030ff960f71a8813e61

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5d0038/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 亢倉子注
+  edition:
+    short: WYG
+    label: 【四部全書・文淵閣】
+  date: '2015-08-24 23:44:08.870307'
+  source:
+    repository: kanripo
+    path: KR5d0038/KR5d0038_000.txt
+hash: sha256:9076eb733c41857245a76dce0f01bd42137073d5d301003adfbfe4c7fee5225e
