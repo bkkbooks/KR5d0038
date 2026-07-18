@@ -21,7 +21,7 @@ assets:
   - {seq: 1, filename: KR5d0038_001-WYG.yaml, hash: 'sha256:092a82e28dd3c5b20e64e5451cfff0038cabcfec5cc4a66cb89b416b8ea14ed6'}
   - {seq: 2, filename: KR5d0038_002-WYG.yaml, hash: 'sha256:1ea4b4dd7ebc885cd81eafc7baa01f763bb6cc1d1cb9a862abc12db1caf88ac6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5d0038_001-WYG.markers.yaml, hash: 'sha256:a44921e30fac0d32b612bd9a634ef4a09a542d4b77749a46f80c9bef0224ceac'}
+  - {seq: 1, role: markers, filename: assets/KR5d0038_001-WYG.markers.yaml, hash: 'sha256:9e61dba39be0f845bd69368388ae9c6027925f76125fe543bf4f7701fba538d7'}
   - {seq: 2, role: markers, filename: assets/KR5d0038_002-WYG.markers.yaml, hash: 'sha256:a038aacff97137cfa1b86903bd386d416c51b97b4f4add25345642c7966fbcd8'}
 table_of_contents:
 - ref:
@@ -44,4 +44,4 @@ table_of_contents:
   label: 亢倉子注後跋
   type: section
   level: 1
-hash: sha256:76beb38c6dbbdb8409c3aa6e1ac1eae61e310f1916deb81fd24b1ae8acb8fb19
+hash: sha256:84a88ed2d96d4e04c932f1835a1e69c222d245aea07ddc1569615011afb5eb3c
